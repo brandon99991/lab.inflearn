@@ -1,5 +1,5 @@
-# (인프런) 따라하며 배우는 도커와 CI환경  
-● 섹션 6. Docker Compose 사용하기 (ComposeApp)
+# [인프런] 따라하며 배우는 도커와 CI환경
+■ 섹션 6. Docker Compose 사용하기 (ComposeApp)
 
 1) npm init 실행 (package.json 생성)
 2) package.json 수정
