@@ -27,6 +27,3 @@ replay_pid*
 # 추가 제외 #
 lec02.jenkins-cicd/binary/
 lec02.jenkins-cicd/dev/
-
-./lec02.jenkins-cicd/binary/
-./lec02.jenkins-cicd/dev/
